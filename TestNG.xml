@@ -1,0 +1,10 @@
+<suite name ="BMT REGRESSION SUITE">
+<test name ="BMT">
+<classes>
+<class name="User_actions.Useractions"/>
+<methods>
+<include name='pauseTest'/>
+</methods>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BMT REGRESSION SUITE]">
+  <test name="BMT(failed)">
+    <classes>
+      <class name="User_actions.Useractions">
+        <methods>
+          <include name="pauseTest"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- User_actions.Useractions -->
+    </classes>
+  </test> <!-- BMT(failed) -->
+</suite> <!-- Failed suite [BMT REGRESSION SUITE] -->

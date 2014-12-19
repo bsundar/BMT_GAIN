@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BMT GAIN Functional TestSuite]">
+  <test name="BMT GAIN(failed)">
+    <classes>
+      <class name="User_actions.Useractions">
+        <methods>
+          <include name="answeredstatus"/>
+          <include name="pauseTest"/>
+          <include name="beforeClass"/>
+          <include name="itemNavigation"/>
+          <include name="highlightEraser"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- User_actions.Useractions -->
+    </classes>
+  </test> <!-- BMT GAIN(failed) -->
+</suite> <!-- Failed suite [BMT GAIN Functional TestSuite] -->
